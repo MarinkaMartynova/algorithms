@@ -2,6 +2,7 @@ package algorithms;
 
 public class Main {
     public static void main(String[] args) {
+
         LinkedList list = new LinkedList();
         list.add(5);
         list.add(2);
@@ -25,7 +26,6 @@ public class Main {
         list.print();
 
         //System.out.println(list.find(2));
-
 
 
     }
